@@ -20,12 +20,12 @@ After I have applied this, I became enthusiastic about contributing to open sour
 Change the `?username=` value to your GitHub username.
 
 ```md
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun)
+![Houtan's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=houtan-rocky)
 ```
 
 ### Demo
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B)
+![Houtan's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=houtan-rocky&hide=B)
 
 \_Note: Available ranks are S+ (over 10000), S (over 1000), A+ (over 500), A (over 100), B+ (over 50) and B (over 1).
 
@@ -34,7 +34,7 @@ Change the `?username=` value to your GitHub username.
 To limit contribution repos to show, you can pass a query parameter `&limit=` with number value. For example, if you want to show only 5 contribution repos, then add **limit=5** like the following one.
 
 ```md
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&limit=5)
+![Houtan's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=houtan-rocky&limit=5)
 ```
 
 ### Hiding rank stats
@@ -42,7 +42,7 @@ To limit contribution repos to show, you can pass a query parameter `&limit=` wi
 To hide specific ranks, you can pass a query parameter `&hide=` with comma-separated rank values. If you need to add plus rank (ex. B+) to hide arrays , it is always safe to replace pluses with %2B
 
 ```md
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B,B%2B)
+![Houtan's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=houtan-rocky&hide=B,B%2B)
 ```
 
 ### Including all contributions, not only recent contributions
@@ -50,7 +50,7 @@ To hide specific ranks, you can pass a query parameter `&hide=` with comma-separ
 By default, the card is generated from GitHub's GraphQL API `repositoriesContributedTo`, which only includes recent contributions. To include all contributions, add `&combine_all_yearly_contributions=true` query parameter, which will let the card be generated from GitHub's GraphQL API `contributionsCollection`, including all contributions.
 
 ```md
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&combine_all_yearly_contributions=true)
+![Houtan's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=houtan-rocky&combine_all_yearly_contributions=true)
 ```
 
 ### Themes
@@ -60,7 +60,7 @@ With inbuilt themes, you can customize the look of the card without doing any [m
 Use `&theme=THEME_NAME` parameter like so :-
 
 ```md
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B&theme=default)
+![Houtan's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=houtan-rocky&hide=B&theme=default)
 ```
 
 #### All inbuilt themes:- in <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats' themes</a>
@@ -80,8 +80,6 @@ However, if you are using this project and are happy with it or just want to enc
 
 - Starring and sharing the project :rocket:
 - You can make one-time donations via buymeacoffee. I'll probably buy a coffee! :coffee:
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/eeht17173)
 
 Thanks! :heart:
 
